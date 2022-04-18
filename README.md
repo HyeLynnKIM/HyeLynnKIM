@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/얄루-green?style=flat-square&logo=appveyor&logo=TurboSquid&logoColor=FF8135"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeLynnKIM&show_icons=true&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeLynnKIM&layout=레이아웃 스타일&theme=nightowl)
