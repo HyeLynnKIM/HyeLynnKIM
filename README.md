@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/얄루-green?style=flat-square&logo=appveyor&logo=Sass&logoColor=FF8135"/>
-
+<img src="https://img.shields.io/badge/얄루-brightgreen?style=flat-square&logo=TurboSquid&logoColor=FF8135"/>
+#
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeLynnKIM&show_icons=true&theme=nightowl)
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeLynnKIM&layout=demo&theme=nightowl)
