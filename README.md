@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeLynnKIM&show_icons=true&theme=nightowl)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeLynnKIM&layout=레이아웃 스타일&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeLynnKIM&layout=demo&theme=nightowl)
 </div>
