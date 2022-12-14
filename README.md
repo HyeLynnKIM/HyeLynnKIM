@@ -2,7 +2,6 @@
 
 ### Hi there 👋 I'M ✨ HyeLynn ✨ 😄
 
-I Hope to more than one commit every day
 <!--
 **HyeLynnKIM/HyeLynnKIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
