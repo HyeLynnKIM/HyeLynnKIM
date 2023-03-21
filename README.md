@@ -1,6 +1,8 @@
 <div align="center">
 
 ### Hi there 👋 I'M ✨ HyeLynn ✨ 😄
+  
+<img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=html5&logoColor=white">
 
 <!--
 **HyeLynnKIM/HyeLynnKIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
