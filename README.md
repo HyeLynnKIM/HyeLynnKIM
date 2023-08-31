@@ -8,8 +8,8 @@ I'm interested in Machine Reading Comprehension, Language Models (OR LLM)
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/pytorch-#EE4C2C?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/tensorflow-#FF6F00?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-#EE4C2C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-#FF6F00?style=for-the-badge&logo=python&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
